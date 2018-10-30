@@ -4,4 +4,12 @@
   <artifactId>poker</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>		</description>
+  <dependencies>
+	<dependency>
+	    <groupId>org.javatuples</groupId>
+	    <artifactId>javatuples</artifactId>
+	    <version>1.2</version>
+	</dependency>
+  </dependencies>
+  
 </project>
